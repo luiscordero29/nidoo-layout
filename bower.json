@@ -1,0 +1,22 @@
+{
+  "name": "nidoo",
+  "authors": [
+    "Luis Cordero <info@luiscordero29.com>"
+  ],
+  "description": "Parquea como en casa",
+  "main": "index.html",
+  "keywords": [
+    "nidoo"
+  ],
+  "license": "MIT",
+  "homepage": "https://nidoo.la/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
